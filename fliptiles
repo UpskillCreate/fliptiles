@@ -1,0 +1,401 @@
+<h1><a href="https://upskillcreate.com" target="_blank">Upskill Create</a></h1>
+<h3 style="color:black">Hover over each image to learn more.</h3>
+<h3 style="color:black">Note: Badges with a Blue Background are for IBM Employees only.</h3>
+<table class="badge-grid">
+<tr>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front" style="background-color: #006699;">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/Badges_v8-07Practitioner.png" alt="Enterprise Design Thinking Practitioner" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+      <h2 style="color:white">Badge #1</h2>
+      <h3 style="color:white">Enterprise Design Thinking Practitioner</h3>
+	  <h3 style="color:white">For more information: <a href="https://www.youracclaim.com/badges/d48e536f-4b71-4dea-9a81-a01cf00b7a1b" target="_blank" style="color:white">LINK</a></h3>
+	  <h3 style="color:white">Must be an IBM Employee</h3>
+    </div>
+  </div>
+</div>
+</td>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/BigDataFoundLevel1-CC-2019.png" alt="Big Data Foundations Level 1" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+      <h2 style="color:white">Badge #2</h2>
+      <h3 style="color:white">Big Data Foundations<br>Level 1</h3>
+	  <h3 style="color:white">For more information: <a href="https://www.youracclaim.com/badges/4d5f87de-a0b7-4a7a-907f-a5ec56c6dbca" target="_blank" style="color:white">LINK</a></p>
+    </div>
+  </div>
+</div>
+</td>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/BlockchainEssentials.png" alt="Blockchain Essentials" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+      <h2 style="color:white">Badge #3</h2>
+      <h3 style="color:white">Blockchain Essentials</h3>
+	  <h3 style="color:white">For more information: <a href="https://www.youracclaim.com/badges/7dbe60e2-e62a-4e9e-a93e-d84c1a0f0277" target="_blank" style="color:white">LINK</a></p>
+    </div>
+  </div>
+</div>
+</td>
+</tr>
+
+<tr>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/CloudContaServK8s-IDSN.png" alt="Getting Started with Kubernetes and IBM Cloud Container Service" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+      <h2 style="color:white">Badge #4</h2>
+      <h3 style="color:white">Getting Started with Kubernetes and IBM Cloud Container Service</h3>
+	  <h3 style="color:white">For more information: <a href="https://www.youracclaim.com/badges/39557339-cf8c-49cd-9ab0-7679d9b74ebc" target="_blank" style="color:white">LINK</a></h3>
+    </div>
+  </div>
+</div>
+</td>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/DataSciBusinessLevel1-CC-2019.png" alt="Data Science for Business Level 1" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+      <h2 style="color:white">Badge #5</h2>
+      <h3 style="color:white">Data Science for Business<br>Level 1</h3>
+	  <h3 style="color:white">For more information: <a href="https://www.youracclaim.com/badges/90dd0adc-2f5c-45f6-afc8-e2356e35e09e" target="_blank" style="color:white">LINK</a></h3>
+    </div>
+  </div>
+</div>
+</td>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/DataSciFoundLevel1-CC-2019.png" alt="Data Science Foundations Level 1" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+      <h2 style="color:white">Badge #6</h2>
+      <h3 style="color:white">Data Science Foundations<br>Level 1</h3>
+	  <h3 style="color:white">For more information: <a href="https://www.youracclaim.com/badges/d5c965ad-95bf-4fbd-aa58-8f9fd98a37f1" target="_blank" style="color:white">LINK</a></h3>
+    </div>
+  </div>
+</div>
+</td>
+</tr>
+
+<tr>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front" style="background-color: #006699;">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/DigitalLearningDeveloperV2c.png" alt="Digital Learning Developer" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+      <h2 style="color:white">Badge #7</h2>
+      <h3 style="color:white">Digital Learning Developer</h3>
+	  <h3 style="color:white">For more information: <a href="https://www.youracclaim.com/badges/2596b1bc-f66e-467e-b745-c57fb6b52dbc" target="_blank" style="color:white">LINK</a></h3>
+	  <h3 style="color:white">Must be an IBM Employee</h3>
+    </div>
+  </div>
+</div>
+</td>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front" style="background-color: #006699;">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/Disruptive-HR-in-a-Cogntive-Era-Essentials.png" alt="Disruptive HR in a Cognitive Era" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+      <h2 style="color:white">Badge #8</h2>
+      <h3 style="color:white">Disruptive Human Resources<br>in a Cognitive Era</h3>
+	  <h3 style="color:white">For more information: <a href="https://www.youracclaim.com/badges/7c1ff94b-b7bd-4693-894c-eb75bffa875d" target="_blank" style="color:white">LINK</a></h3>
+	  <h3 style="color:white">Must be an IBM Employee</h3>
+    </div>
+  </div>
+</div>
+</td>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/DockerEssentials-ISDN.png" alt="Docker Essentials" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+      <h2 style="color:white">Badge #9</h2>
+      <h3 style="color:white">Docker Essentials</h3>
+	  <h3 style="color:white">For more information: <a href="https://www.youracclaim.com/badges/7f27b74d-1b81-4222-a7fa-36663c9aa718" target="_blank" style="color:white">LINK</a></h3>
+    </div>
+  </div>
+</div>
+</td>
+</tr>
+
+<tr><td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/9.png" alt="Upskill Create Badge" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+		<a href="https://bit.ly/uc-topjobs" target="_blank"><img src="https://upskillcreate.com/wp-content/uploads/2019/02/9-top-jobs.jpg" title="Top Paying Jobs for 2019: Data Scientist Leads the List!"></a>
+    </div>
+  </div>
+</div>
+</td>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/8.png" alt="Upskill Create Badge" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+		<a href="https://upskillcreate.com/why-you-should-join-a-community-built-on-trust/" target="_blank"><img src="https://upskillcreate.com/wp-content/uploads/2019/02/8-community-trust.jpg" title="Why You Should Join a Community Built on Trust"></a>
+    </div>
+  </div>
+</div>
+</td>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/7.png" alt="Upskill Create Badge" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+		<a href="https://bit.ly/uc-mybadges" target="_blank"><img src="https://upskillcreate.com/wp-content/uploads/2019/02/7-badges-challenge.jpg" title="Join the My Badges Challenge"></a>
+    </div>
+  </div>
+</div>
+</td>
+</tr>
+
+<tr>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/6.png" alt="Upskill Create Badge" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+		<a href="https://bit.ly/badgesnext" target="_blank"><img src="https://upskillcreate.com/wp-content/uploads/2019/02/6-badges-next.jpg" title="Badges: Are you ready for what's next?"></a>
+    </div>
+  </div>
+</div>
+</td>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/5.png" alt="Upskill Create Badge" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+		<a href="https://upskillcreate.com/5-ways-to-make-time-for-learning/" target="_blank"><img src="https://upskillcreate.com/wp-content/uploads/2019/02/5-ways-learning.jpg" title="5 Ways to Make Time for Learning"></a>
+    </div>
+  </div>
+</div>
+</td>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/4.png" alt="Upskill Create Badge" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+		<a href="https://bit.ly/uc-datasciencejob" target="_blank"><img src="https://upskillcreate.com/wp-content/uploads/2019/02/4-data-science-job.jpg" title="How to get a Data Science Job"></a>
+    </div>
+  </div>
+</div>
+</td>
+</tr>
+
+<tr>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/3.png" alt="Upskill Create Badge" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+		<a href="https://bit.ly/upskillcreate" target="_blank"><img src="https://upskillcreate.com/wp-content/uploads/2019/02/3-join-upskillers.jpg" title="Join the Upskiller Community"></a>
+    </div>
+  </div>
+</div>
+</td>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/2.png" alt="Upskill Create Badge" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+      <h2 style="color:white">Upskill Create</h2>
+      <h3 style="color:white">For more information: <a href="https://upskillcreate.com" target="_blank" style="color:white">LINK</a></h3>
+    </div>
+  </div>
+</div>
+</td>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/1.png" alt="Upskill Create Badge" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+		<a href="https://upskillcreate.com/resource-library/" target="_blank"><img src="https://upskillcreate.com/wp-content/uploads/2019/02/1-free-infographic.png" title="Resource Library - Infographics"></a>
+    </div>
+  </div>
+</div>
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front" style="background-color: #006699;">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/Educator.png" alt="Educator" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+      <h2 style="color:white">Badge #10</h2>
+      <h3 style="color:white">IBM Recognized<br>Teacher/Educator</h3>
+	  <h3 style="color:white">For more information: <a href="https://www.youracclaim.com/badges/77cf4778-57bb-4480-b85e-d58eb2e014f9" target="_blank" style="color:white">LINK</a></h3>
+	  <h3 style="color:white">Must be an IBM Employee</h3>
+    </div>
+  </div>
+</div>
+</td>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/GarageMethodExplorer.png" alt="Cloud Innovate Method Explorer" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+      <h2 style="color:white">Badge #11</h2>
+      <h3 style="color:white">Cloud Innovate Method<br>Explorer</h3>
+	  <h3 style="color:white">For more information: <a href="https://www.youracclaim.com/badges/77cf4778-57bb-4480-b85e-d58eb2e014f9" target="_blank" style="color:white">LINK</a></h3>	  
+    </div>
+  </div>
+</div>
+</td>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/HadoopDataFoundLevel1-CC-2019.png" alt="Hadoop Data Foundations Level 1" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+      <h2 style="color:white">Badge #12</h2>
+      <h3 style="color:white">Hadoop Data Foundations<br>Level 1</h3>
+	  <h3 style="color:white">For more information: <a href="https://www.youracclaim.com/badges/8d89bfce-44f3-46c6-9814-b590080424a6" target="_blank" style="color:white">LINK</a></h3>		  
+    </div>
+  </div>
+</div>
+</td>
+</tr>
+
+<tr>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/IBMCloudEssentials-KnowledgeBadge.png" alt="IBM Cloud Essentials" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+      <h2 style="color:white">Badge #13</h2>
+      <h3 style="color:white">Cloud Essentials</h3>
+	  <h3 style="color:white">For more information: <a href="https://www.youracclaim.com/badges/2e710776-5003-4dbe-865f-c68095869bf4" target="_blank" style="color:white">LINK</a></h3>	
+    </div>
+  </div>
+</div>
+</td>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front" style="background-color: #006699;">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/IBMLearningBadge352transparentBG.png" alt="IBM Digital Learning Transformation" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+      <h2 style="color:white">Badge #14</h2>
+      <h3 style="color:white">Digital Learning Transformation</h3>
+	  <h3 style="color:white">For more information: <a href="https://www.youracclaim.com/badges/3bb8c589-9aaa-4344-9a13-b6f8798c70cd" target="_blank" style="color:white">LINK</a></h3>	
+	  <h3 style="color:white">Must be an IBM Employee</h3>	  
+    </div>
+  </div>
+</div>
+</td>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front" style="background-color: #006699;">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/IBM-Mentor_282_29.png" alt="IBM Mentor" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+      <h2 style="color:white">Badge #15</h2>
+      <h3 style="color:white">IBM Mentor</h3>
+	  <h3 style="color:white">For more information: <a href="https://www.youracclaim.com/badges/5c97cdd8-0a8a-4a5f-bb0b-e553c1a2e9d5" target="_blank" style="color:white">LINK</a></h3>
+	  <h3 style="color:white">Must be an IBM Employee</h3>
+    </div>
+  </div>
+</div>
+</td>
+</tr>
+
+<tr>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/NodeRED-BasicstoBots-IDSN.png" alt="Node Red Basics to Bots" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+      <h2 style="color:white">Badge #16</h2>
+      <h3 style="color:white">Node-RED:<br>Basics to Bots</h3>
+	  <h3 style="color:white">For more information: <a href="https://www.youracclaim.com/badges/fef9b62f-ec9e-489f-89f9-da4a43e602d7" target="_blank" style="color:white">LINK</a></h3>
+    </div>
+  </div>
+</div>
+</td>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front" style="background-color: #006699;">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/PractitionerBrightGreenNoDatecopy.png" alt="IBM Cognitive Practitioner" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+      <h2 style="color:white">Badge #17</h2>
+      <h3 style="color:white">IBM Cognitive Practitioner</h3>
+	  <h3 style="color:white">For more information: <a href="https://www.youracclaim.com/badges/5d71165b-2fc8-48db-b226-00e59b78004f" target="_blank" style="color:white">LINK</a></h3>
+	  <h3 style="color:white">Must be an IBM Employee</h3>
+    </div>
+  </div>
+</div>
+</td>
+<td>
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="https://upskillcreate.com/wp-content/uploads/2019/02/Python101DataScience.png" alt="Python 101 Data Science" style="width:100%;height:100%">
+    </div>
+    <div class="flip-box-back">
+      <h2 style="color:white">Badge #18</h2>
+      <h3 style="color:white">Python for Data Science</h3>
+	  <h3 style="color:white">For more information: <a href="https://www.youracclaim.com/badges/6ba484c2-11b7-430c-acda-c072c4bb71d8 target="_blank" style="color:white">LINK</a></h3>
+    </div>
+  </div>
+</div>
+</td>
+</tr>
+
+</table>
